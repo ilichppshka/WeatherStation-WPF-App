@@ -1,0 +1,23 @@
+# .NET build output, test results and local packages
+[Bb]in/
+[Oo]bj/
+TestResults/
+artifacts/
+*.binlog
+*.nupkg
+*.snupkg
+
+# Per-user IDE settings
+.vs/
+.idea/
+*.user
+*.suo
+*.sln.docstates
+*.DotSettings.user
+
+# Local WeatherStation data
+*.db
+*.db-journal
+*.db-shm
+*.db-wal
+*.log
